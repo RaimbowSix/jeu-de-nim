@@ -1,6 +1,6 @@
 package jeu-de-nim;
 
-import util.IO;
+import IO;
 
 public class Jeu_de_Nim {
 	/**
