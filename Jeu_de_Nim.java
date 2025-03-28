@@ -21,12 +21,6 @@ public class Jeu_de_Nim {
 		return nb;
 	}
 	
-	
-	/**
-	 * fonction principale du jeu. Beaucoup trop longue, � vous de la
-	 * couper en fonctions interm�diaires.
-	 * @param args (non utilis�)
-	 */
 	public static int mise_en_place() {
 
 		/** presentation du jeu => en fonction, doit retourner la taille du tas **/
